@@ -1,0 +1,15 @@
+Output/
+Logs/
+History/
+__Previews/
+*.PrjPcbStructure
+*.LOG
+*.Dat
+*.htm
+*.html
+*.DsnWrk
+*.lnk
+*.*_loc
+.DS_Store
+Thumbs.db
+Status\ Report.Txt
